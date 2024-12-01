@@ -1,0 +1,29 @@
+.board{
+    height:8in;
+    width:8in;
+    border:solid 8px rgb(37, 32, 32);
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: red;
+}
+
+.item{
+    height: 1in;
+    width: 1in;
+    /* background-color: brown; */
+    align-items: center;
+    border: 2px;
+    text-align: center;
+    font-size: 0.5in;
+}
+
+.item-odd{
+    background-color: #000;
+}
+
+.item-even{
+    background-color: white;
+}

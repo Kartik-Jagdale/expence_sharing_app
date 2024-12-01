@@ -1,0 +1,29 @@
+/* #box{
+    background-color: blue;
+} */
+
+/* .heading{
+    color:brown;
+} */
+
+h1, h2, h3 {
+    color:red;
+}
+
+button{
+    background-color: pink;
+}
+
+p{
+    color: black;
+    background-color: aqua;
+    font-size: medium;
+    text-align: center;
+    text-decoration: underline;
+    height: 5rem;    
+    width: 45rem;
+    margin: 3rem;
+    border: black;
+    padding: 5rem;
+    font-family: 'Courier New', Courier, monospace;
+}
